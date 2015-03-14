@@ -20,6 +20,3 @@ def BinaryConverter(str)
 	return sum
 
 end
-
-puts BinaryConverter('100101')
-puts BinaryConverter('011')

@@ -22,6 +22,3 @@ def ArithGeo(arr)
 	end
 
 end
-
-puts ArithGeo([5,10,15])
-puts ArithGeo([2,4,16,24])
