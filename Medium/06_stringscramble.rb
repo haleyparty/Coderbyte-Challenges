@@ -10,3 +10,5 @@ def StringScramble(str1, str2)
 	return true
 
 end
+
+puts StringScramble('Haley', 'yelaH')
