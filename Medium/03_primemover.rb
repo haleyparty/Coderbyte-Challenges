@@ -9,7 +9,6 @@ def PrimeMover(num)
 			is_prime = false if potential_prime % i == 0
 			i += 1
 		end
-		puts potential_prime
 
 		solution = potential_prime if is_prime
 		num_primes += 1 if is_prime
